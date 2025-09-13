@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there I'm Pitiwat👋
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 <!--
 **PitiwatL/PitiwatL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
